@@ -2,7 +2,7 @@
 
 Welcome to this knowledge check exercise! Your task is to write tests for a simple React application using Vite with Vitest.
 
-#### Your Task
+#Your Task
 
 Your task is to write tests for the provided code. You need to create 4 tests:
 
